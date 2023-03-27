@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/curved_blue_bg" />
+    <item android:drawable="@drawable/star"
+        android:gravity="center"
+        android:right="285dp"/>
+    <item android:drawable="@drawable/circle_star"
+        android:gravity="center"
+        android:left="350dp"
+        android:bottom="250dp"/>
+    <item android:drawable="@drawable/wave"
+        android:gravity="center"
+        android:top="350dp"/>
+
+</layer-list>

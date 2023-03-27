@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <selector>
+            <item android:state_enabled="true">
+                <shape android:dither="true" android:shape="rectangle" android:useLevel="false" android:visible="true">
+                    <solid android:color="@color/purple_5A4BDA" />
+                    <corners android:radius="20dp" />
+                    <size android:width="32dp" android:height="16dp" />
+                    <stroke android:width="4dp" android:color="@color/purple_5A4BDA" />
+                </shape>
+            </item>
+            <item android:state_enabled="false">
+                <shape android:dither="true" android:shape="rectangle" android:useLevel="false" android:visible="true">
+                    <solid android:color="#cec9f4" />
+                    <corners android:radius="20dp" />
+                    <size android:width="32dp" android:height="16dp" />
+                    <stroke android:width="4dp" android:color="#cec9f4" />
+                </shape>
+            </item>
+        </selector>
+    </item>
+
+    <item android:state_checked="false">
+        <selector>
+            <item android:state_enabled="true">
+                <shape android:dither="true" android:shape="rectangle" android:useLevel="false" android:visible="true">
+                    <solid android:color="#EB427E" />
+                    <corners android:radius="20dp" />
+                    <size android:width="32dp" android:height="16dp" />
+                    <stroke android:width="4dp" android:color="#EB427E" />
+                </shape>
+            </item>
+            <item android:state_enabled="false">
+                <shape android:dither="true" android:shape="rectangle" android:useLevel="false" android:visible="true">
+                    <solid android:color="#F19DBB" />
+                    <corners android:radius="20dp" />
+                    <size android:width="32dp" android:height="16dp" />
+                    <stroke android:width="4dp" android:color="#F19DBB" />
+                </shape>
+            </item>
+        </selector>
+    </item>
+</selector>
+

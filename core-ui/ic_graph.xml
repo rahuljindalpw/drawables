@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="36dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+  <path
+      android:pathData="M2.475,18.15H7.275V34.425H2.475V18.15Z"
+      android:fillColor="@color/green_97DEB5"/>
+  <path
+      android:pathData="M10.213,12.525H15.013V34.5H10.213V12.525Z"
+      android:fillColor="@color/blue_93D0F4"/>
+  <path
+      android:pathData="M17.952,18.15H22.752V34.425H17.952V18.15Z"
+      android:fillColor="#F5E78C"/>
+  <path
+      android:pathData="M25.691,12.525H30.491V34.5H25.691V12.525Z"
+      android:fillColor="#F68A86"/>
+  <path
+      android:pathData="M3.393,11.184C3.261,10.915 3.261,10.647 3.524,10.445L12.09,3.795C12.288,3.661 12.485,3.661 12.683,3.795L20.062,10.176L27.442,3.795C27.639,3.594 27.969,3.661 28.166,3.863C28.364,4.064 28.298,4.4 28.101,4.602L20.392,11.251C20.194,11.385 19.931,11.385 19.799,11.251L12.353,4.87L4.117,11.318C3.854,11.453 3.59,11.385 3.393,11.184Z"
+      android:fillColor="@color/blue_435075"/>
+  <path
+      android:pathData="M27.735,1.837C26.59,1.837 25.714,2.721 25.714,3.857C25.714,4.931 26.59,5.878 27.735,5.878C28.88,5.878 29.755,4.994 29.755,3.857C29.755,2.721 28.88,1.837 27.735,1.837Z"
+      android:fillColor="#F68A86"/>
+  <path
+      android:pathData="M12.306,1.837C11.161,1.837 10.286,2.721 10.286,3.857C10.286,4.931 11.161,5.878 12.306,5.878C13.451,5.878 14.326,4.994 14.326,3.857C14.326,2.721 13.384,1.837 12.306,1.837Z"
+      android:fillColor="@color/blue_93D0F4"/>
+  <path
+      android:pathData="M20.02,8.449C18.875,8.449 18,9.333 18,10.47C18,11.543 18.875,12.49 20.02,12.49C21.165,12.49 22.041,11.606 22.041,10.47C22.041,9.333 21.165,8.449 20.02,8.449Z"
+      android:fillColor="#F5E78C"/>
+  <path
+      android:pathData="M4.592,8.449C3.447,8.449 2.571,9.333 2.571,10.47C2.571,11.543 3.447,12.49 4.592,12.49C5.737,12.49 6.612,11.606 6.612,10.47C6.612,9.333 5.669,8.449 4.592,8.449Z"
+      android:fillColor="@color/green_97DEB5"/>
+</vector>
